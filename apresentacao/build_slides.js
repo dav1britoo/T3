@@ -1,9 +1,9 @@
-/* Gera apresentacao.pptx — UVA 10080 Gopher II (Grupo OF)
+/* Gera apresentacao.pptx — UVA 10080 Gopher II (Grupo F)
    Paleta "Forest & Moss" (tema gophers/tocas) + acento clay.            */
 const pptxgen = require("pptxgenjs");
 const pres = new pptxgen();
 pres.layout = "LAYOUT_WIDE";            // 13.3 x 7.5
-pres.author = "Grupo OF";
+pres.author = "Grupo F";
 pres.title = "UVA 10080 - Gopher II";
 
 const W = 13.3, H = 7.5;
@@ -64,7 +64,7 @@ function edge(s, x1,y1,x2,y2, color, width){
 
   s.addShape(pres.shapes.LINE, { x:0.72, y:4.15, w:3.2, h:0, line:{color:C.clay, width:2.5} });
   s.addText([
-    { text:"Grupo OF", options:{ bold:true, color:C.cream } },
+    { text:"Grupo F", options:{ bold:true, color:C.cream } },
     { text:"  ·  (integrantes: preencher nomes e RAs)", options:{ color:C.muted } },
   ], mk({ x:0.7, y:4.45, w:8.5, h:0.4, fontSize:15, margin:0 }));
   s.addText("Resolução de Problemas com Grafos  ·  Prof. Me. Ricardo Carubbi",
@@ -394,7 +394,7 @@ function edge(s, x1,y1,x2,y2, color, width){
   s.addText("Submissão: Accepted na UVA", mk({ x:0.7, y:5.15, w:4.3, h:0.75, fontSize:15,
     bold:true, color:"FFFFFF", align:"center", valign:"middle", margin:0 }));
 
-  s.addText("Grupo OF  ·  Obrigado!", mk({ x:0.7, y:6.55, w:11, h:0.5, fontSize:16,
+  s.addText("Grupo F  ·  Obrigado!", mk({ x:0.7, y:6.55, w:11, h:0.5, fontSize:16,
     color:C.mossLt, bold:true, margin:0 }));
 })();
 

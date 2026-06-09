@@ -1,6 +1,6 @@
 """
 UVA 10080 - Gopher II
-Grupo OF
+Grupo F
 
 Emparelhamento bipartido (gophers x buracos) resolvido como FLUXO MAXIMO
 com o algoritmo de Edmonds-Karp (BFS no grafo residual).

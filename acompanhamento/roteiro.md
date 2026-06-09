@@ -1,4 +1,4 @@
-# Ficha de Acompanhamento — UVA 10080 Gopher II (Grupo OF)
+# Ficha de Acompanhamento — UVA 10080 Gopher II (Grupo F)
 
 ## 1. Resumo do problema (linguagem própria)
 

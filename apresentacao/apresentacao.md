@@ -1,5 +1,5 @@
 # UVA 10080 — Gopher II
-### Grupo OF · Fluxo máximo / Emparelhamento bipartido
+### Grupo F · Fluxo máximo / Emparelhamento bipartido
 
 ---
 

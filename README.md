@@ -1,4 +1,4 @@
-# UVA 10080 - Gopher II (Grupo OF)
+# UVA 10080 - Gopher II (Grupo F)
 
 Trabalho Prático 3 — Resolução de Problemas com Grafos
 Tema: **Fluxo máximo / Emparelhamento bipartido**
@@ -9,7 +9,7 @@ Tema: **Fluxo máximo / Emparelhamento bipartido**
 - **Link:** <https://onlinejudge.org/external/100/10080.pdf>
 - **Plataforma de submissão:** <https://onlinejudge.org/>
 
-## Integrantes do grupo OF
+## Integrantes do grupo F
 
 - João Vitor Silva
 - Antonio Davi
@@ -158,8 +158,8 @@ positivo; o problema só pede a quantidade, então basta o valor do fluxo.
 
 ## Evidência de Accepted
 
-Ver `evidencias/accepted.png` (adicionar o print do veredito **Accepted** após a
-submissão na UVA).
+O comprovante do veredito da submissão na UVA Online Judge (problema 10080 —
+Gopher II, linguagem PYTH3) está em `evidencias/accepted.png`.
 
 ## Estrutura do repositório
 
