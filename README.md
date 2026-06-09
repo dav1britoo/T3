@@ -11,9 +11,9 @@ Tema: **Fluxo máximo / Emparelhamento bipartido**
 
 ## Integrantes do grupo OF
 
-João Vitor Silva
-Antonio Davi
-Pablo Dornelles
+- João Vitor Silva
+- Antonio Davi
+- Pablo Dornelles
 
 ## Linguagem
 
