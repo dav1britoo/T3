@@ -11,9 +11,9 @@ Tema: **Fluxo máximo / Emparelhamento bipartido**
 
 ## Integrantes do grupo OF
 
-- (preencher) Nome — RA
-- (preencher) Nome — RA
-- (preencher) Nome — RA
+João Vitor Silva
+Antonio Davi
+Pablo Dornelles
 
 ## Linguagem
 
