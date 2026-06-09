@@ -173,7 +173,7 @@ T3/
 ├── evidencias/
 │   └── accepted.png        (adicionar após submeter)
 ├── apresentacao/
-│   └── apresentacao.md
+│   └── apresentacao.pdf
 └── dados/
     └── entradas_do_problema.txt
 ```
