@@ -3,6 +3,10 @@
 Trabalho Prático 3 — Resolução de Problemas com Grafos
 Tema: **Fluxo máximo / Emparelhamento bipartido**
 
+# *Link do Vídeo*
+
+https://youtu.be/zX0tkXwDkjg
+
 ## Problema
 
 - **Nome:** UVA 10080 - Gopher II
